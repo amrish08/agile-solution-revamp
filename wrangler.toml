@@ -5,4 +5,4 @@ compatibility_date = "2026-11-25"
 [[d1_databases]]
 binding = "DB"
 database_name = "agile-solution-orders"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "c5066404-35b8-4182-b604-4245c4c23947"
